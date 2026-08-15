@@ -1,8 +1,6 @@
 # Atelier API — Mamadou Ardo Ndiaye (ESP 221)
 
-Reproduction fidèle de l'atelier API du prof (base : [bbabadara/ateliers-pratiques-php](https://github.com/bbabadara/ateliers-pratiques-php)/api),
-**adaptée pour PostgreSQL** (le prof avait fait la version MySQL/MariaDB).
-
+Reproduction fidèle de l'atelier API
 Architecture, routes, règles métier, tests : strictement identiques à l'original. Seule la couche
 base de données a changé (schéma, DSN PDO, quelques littéraux SQL) — voir le détail plus bas.
 
